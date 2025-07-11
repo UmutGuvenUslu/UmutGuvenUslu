@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutGuvenUslu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutGuvenUslu&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&hide=prs,issues,contribs"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutGuvenUslu&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
