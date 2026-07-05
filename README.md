@@ -1,38 +1,43 @@
-<h1 align="center">Selam 👋 Ben Umut</h1>
-<h3 align="center">Yazılım Mühendisliği Öğrencisiyim | Backend Geliştirme Öğreniyorum</h3>
-
-
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
+<h1 align="center">Umut Güven Uslu</h1>
+<p align="center"><strong>Junior Software Developer | .NET Developer</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutGuvenUslu&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&hide=prs,issues,contribs"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutGuvenUslu&layout=compact&theme=tokyonight" alt="Languages" />
+  <a href="https://linkedin.com/in/KENDI_LINKEDIN_ADRESIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:KENDI_EPOSTA_ADRESIN@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-### 📫 Bana Ulaş
+## 🚀 Hakkımda
 
-<p>
-  <a href="https://www.linkedin.com/in/umutguvenuslu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:usluumutguven@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Kurumsal yazılım çözümleri ve yönetim sistemleri üzerine odaklanan bir yazılım geliştiriciyim. **.NET ekosistemi** üzerinde uzmanlaşma yolunda ilerliyor; ölçeklenebilir, sürdürülebilir ve temiz kod prensiplerine uygun enterprise uygulamalar tasarlıyorum. 
+
+Görev takibi, izin yönetimi ve raporlama sistemleri gibi iş süreçlerini optimize eden mimariler üzerinde çalışmaktan keyif alıyorum.
+
+---
+
+## 🛠️ Yetenekler & Teknolojiler
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Backend** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Architecture** | `Clean Architecture` `Task & Management Systems` `Relational Database Design` |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+
+---
+
+## 📬 İletişim
+
+Projeler, staj imkanları ve iş birlikleri için benimle her zaman iletişime geçebilirsiniz.
+
+<p align="center">
+  <strong>📩 usluumutguven@gmail.com</strong>
 </p>
 
+---
+
+<p align="center"><em>Building software solutions with passion and precision.</em></p>
