@@ -32,7 +32,7 @@ Görev takibi, izin yönetimi ve raporlama sistemleri gibi iş süreçlerini opt
 
 ## 📬 İletişim
 
-Projeler, staj imkanları ve iş birlikleri için benimle her zaman iletişime geçebilirsiniz.
+Projeler, staj ve iş imkanları için benimle her zaman iletişime geçebilirsiniz.
 
 <p align="center">
   <strong>📩 usluumutguven@gmail.com</strong>
