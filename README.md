@@ -18,8 +18,7 @@ Yazılım Mühendisliği bölümünden mezun, kurumsal yazılım çözümleri ve
 
 Backend tarafında güçlü bir temele sahip olmanın yanı sıra; **React** ve **JavaScript** ile modern web arayüzleri, **Flutter** ve **Kotlin** ile mobil uygulamalar geliştirebiliyor, **Docker** ile uygulamalarımı konteynerize ederek dağıtım süreçlerini yönetebiliyorum.
 
-Görev takibi, izin yönetimi ve raporlama sistemleri gibi iş süreçlerini optimize eden mimariler üzerinde çalışmaktan keyif alıyorum.
-
+ERP ve kurumsal kaynak yönetimi çözümleri geliştiriyorum; işletmelerin süreçlerini uçtan uca dijitalleştiren, ölçeklenebilir ve sürdürülebilir sistemler tasarlamaktan keyif alıyorum.
 ---
 
 ## 🛠️ Yetenekler & Teknolojiler
