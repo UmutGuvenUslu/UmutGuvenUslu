@@ -17,8 +17,9 @@
 Yazılım Mühendisliği bölümünden mezun, kurumsal yazılım çözümleri ve yönetim sistemleri üzerine odaklanan bir yazılım geliştiricisiyim. **.NET ekosistemi** üzerinde uzmanlaşma yolunda ilerliyor; ölçeklenebilir, sürdürülebilir ve temiz kod prensiplerine uygun enterprise uygulamalar tasarlıyorum.
 
 Backend tarafında güçlü bir temele sahip olmanın yanı sıra; **React** ve **JavaScript** ile modern web arayüzleri, **Flutter** ve **Kotlin** ile mobil uygulamalar geliştirebiliyor, **Docker** ile uygulamalarımı konteynerize ederek dağıtım süreçlerini yönetebiliyorum.
-
 ERP ve kurumsal kaynak yönetimi çözümleri geliştiriyorum; işletmelerin süreçlerini uçtan uca dijitalleştiren, ölçeklenebilir ve sürdürülebilir sistemler tasarlamaktan keyif alıyorum.
+
+
 ---
 
 ## 🛠️ Yetenekler & Teknolojiler
