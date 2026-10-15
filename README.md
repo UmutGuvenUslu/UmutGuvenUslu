@@ -1,5 +1,5 @@
 <h1 align="center">Umut Güven Uslu</h1>
-<p align="center"><strong>Software Engineer | .NET Developer | Full-Stack Enthusiast</strong></p>
+<p align="center"><strong>Software Engineer | .NET Developer | Full-Stack Developer</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umutguvenuslu/" target="_blank">
@@ -19,6 +19,13 @@ Yazılım Mühendisliği bölümünden mezun, kurumsal yazılım çözümleri ve
 Backend tarafında güçlü bir temele sahip olmanın yanı sıra; **React** ve **JavaScript** ile modern web arayüzleri, **Flutter** ve **Kotlin** ile mobil uygulamalar geliştirebiliyor, **Docker** ile uygulamalarımı konteynerize ederek dağıtım süreçlerini yönetebiliyorum.
 ERP ve kurumsal kaynak yönetimi çözümleri geliştiriyorum; işletmelerin süreçlerini uçtan uca dijitalleştiren, ölçeklenebilir ve sürdürülebilir sistemler tasarlamaktan keyif alıyorum.
 
+---
+
+## 📊 Kullanılan Diller
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutguvenuslu&theme=dracula&hide_border=true&hide=html,css" alt="En Çok Kullanılan Diller" />
+</p>
 
 ---
 
