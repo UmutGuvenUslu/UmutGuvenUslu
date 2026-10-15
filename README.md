@@ -21,13 +21,6 @@ ERP ve kurumsal kaynak yönetimi çözümleri geliştiriyorum; işletmelerin sü
 
 ---
 
-## 📊 Kullanılan Diller
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutguvenuslu&theme=dracula&hide_border=true&hide=html,css" alt="En Çok Kullanılan Diller" />
-</p>
-
----
 
 ## 🛠️ Yetenekler & Teknolojiler
 
@@ -38,6 +31,13 @@ ERP ve kurumsal kaynak yönetimi çözümleri geliştiriyorum; işletmelerin sü
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
 | **Architecture** | `Clean Architecture` `Task & Management Systems` `Relational Database Design` |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutguvenuslu&theme=dracula&hide_border=true&hide=html,css" alt="En Çok Kullanılan Diller" />
+</p>
 
 ---
 
